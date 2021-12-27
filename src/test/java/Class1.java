@@ -4,6 +4,7 @@ public class Class1 {
         System.out.println("Sentence 1");
         System.out.println("Sentence 2");
         System.out.println("Sentence 3");
+        System.out.println("Sentence 4");
 
     }
 }
